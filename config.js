@@ -13,7 +13,7 @@ const config = {
   music: {
     enabled: true,
     autoplay: false,
-    musicUrl: "https://image2url.com/r2/default/audio/1769898738870-fbf25219-2427-4fc5-a2c6-0e3518a89d9f.mp3",
+   musicUrl: "https://image2url.com/r2/default/audio/1769898738870-fbf25219-2427-4fc5-a2c6-0e3518a89d9f.mp3",
     startText: "🎵 Pornește muzica",
     stopText: "⏸ Oprește muzica",
     volume: 0.5
