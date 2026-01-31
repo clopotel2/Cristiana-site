@@ -1,5 +1,5 @@
 // Basic Information
-valentineName: "Cristiana 💖",
+Name: "Cristiana 💖",
 pageTitle: "Cea mai bună soră din lume?",
 
 // Floating emojis
