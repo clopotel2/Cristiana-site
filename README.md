@@ -1,5 +1,5 @@
 // Basic Information
-sisterName: "Soră ❤️",
+sisterName: "Cristiana ❤️",
 pageTitle: "Cea mai bună soră din lume?",
 
 // Floating Background Elements
