@@ -1,7 +1,8 @@
-window.config = {
-  // Basic Information
+window.VALENTINE_CONFIG = {
   Name: "Cristiana 💖",
   pageTitle: "Cea mai bună soră din lume?",
+  
+};,
 
   // Floating Background Elements
   floatingEmojis: {
