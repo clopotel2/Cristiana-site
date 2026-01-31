@@ -1,5 +1,5 @@
 // Initialize configuration
-const config = window.VALENTINE_CONFIG;
+var config = window.VALENTINE_CONFIG;
 
 // Validate configuration
 function validateConfig() {
