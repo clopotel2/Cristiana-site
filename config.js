@@ -1,7 +1,7 @@
 window.VALENTINE_CONFIG = {
   // Basic Information
-  Name: "Cristiana 💖",
-  pageTitle: "Cea mai bună soră din lume?",
+    valentineName: "Cristiana 💖",
+  pageTitle: "Cea mai bună soră din lume?"
 
   // Colors
   colors: {
