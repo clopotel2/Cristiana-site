@@ -1,4 +1,4 @@
-const config = {
+window.config = {
   // Basic Information
   Name: "Cristiana 💖",
   pageTitle: "Cea mai bună soră din lume?",
