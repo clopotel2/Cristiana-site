@@ -1,9 +1,5 @@
 // Initialize configuration
-window.VALENTINE_CONFIG = {
-  Name: "Cristiana 💖",
-  pageTitle: "Cea mai bună soră din lume?",
-  
-};
+const config = window.VALENTINE_CONFIG;
 
 // Validate configuration
 function validateConfig() {
