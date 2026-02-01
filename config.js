@@ -1,37 +1,26 @@
 window.VALENTINE_CONFIG = {
-  // Basic Information
-  valentineName: "Cristiana 💖",
- pageTitle: "Cea mai bună soră din lume?",
-window.VALENTINE_CONFIG = {
   valentineName: "Cristiana 💖",
   pageTitle: "Cea mai bună soră din lume?",
 
-  // Colors
   colors: {
-    background: "#ffb3c6",
-    card: "#fff0f3",
-    text: "#ff4d6d",
-    button: "#ff4d6d",
-    buttonText: "#ffffff"
-  },
-  ...
-};
+    backgroundStart: "#ffafbd",
+    backgroundEnd: "#ffc3a0",
+    buttonBackground: "#ff6b6b",
+    buttonHover: "#ff8787",
+    textColor: "#ff4757"
   },
 
-  // Animations
   animations: {
     floatDuration: "6s",
     buttonHoverScale: "1.1",
     heartExplosionSize: 1.5
   },
 
-  // Floating Background Elements
   floatingEmojis: {
     hearts: ["💖", "💗", "💓", "💞"],
     bears: ["🧸", "🐻"]
   },
 
-  // Music
   music: {
     enabled: true,
     autoplay: false,
@@ -41,7 +30,6 @@ window.VALENTINE_CONFIG = {
     volume: 0.5
   },
 
-  // Questions and Buttons
   questions: {
     first: {
       text: "Ești cea mai bună soră din lume? 👑",
@@ -61,14 +49,12 @@ window.VALENTINE_CONFIG = {
     }
   },
 
-  // Love meter messages (script.js le folosește!)
   loveMessages: {
-    extreme: "Ești LEGENDARĂ! 👑✨",
+    normal: "Foarte mult! 😄",
     high: "Mai mult decât infinit! 💖",
-    normal: "Foarte mult! 😄"
+    extreme: "Ești LEGENDARĂ! 👑✨"
   },
 
-  // Final Celebration
   celebration: {
     title: "Yaaaay! 🎉",
     message: "Cea mai bună soră din lume 💖",
