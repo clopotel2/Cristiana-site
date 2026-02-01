@@ -1,15 +1,21 @@
 window.VALENTINE_CONFIG = {
   // Basic Information
   valentineName: "Cristiana 💖",
+ pageTitle: "Cea mai bună soră din lume?",
+window.VALENTINE_CONFIG = {
+  valentineName: "Cristiana 💖",
   pageTitle: "Cea mai bună soră din lume?",
 
-  // Colors (trebuie hex valide)
+  // Colors
   colors: {
-    backgroundStart: "#ffafbd",
-    backgroundEnd: "#ffc3a0",
-    buttonBackground: "#ff6b6b",
-    buttonHover: "#ff8787",
-    textColor: "#ff4757"
+    background: "#ffb3c6",
+    card: "#fff0f3",
+    text: "#ff4d6d",
+    button: "#ff4d6d",
+    buttonText: "#ffffff"
+  },
+  ...
+};
   },
 
   // Animations
